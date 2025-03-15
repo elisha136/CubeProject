@@ -1,0 +1,11 @@
+# data.yaml
+
+# Paths to train and val (absolute paths recommended on Windows)
+train: C:\Users\adimalaa\OneDrive - NTNU\Desktop\Dataset\images\train
+val: C:\Users\adimalaa\OneDrive - NTNU\Desktop\Dataset\images\val
+
+# Number of classes
+nc: 1
+
+# Class names
+names: ["cube"]
